@@ -39,8 +39,8 @@ Follow these exact steps to completely automate your environment setup:
 
 Clone this repository to your local machine:
 
-git clone \<your-repository-url\>  
-cd \<repository-folder\>
+git clone https://github.com/yatharthamishra0419/vertexaisetup.git
+cd vertexaisetup
 
 ### **2\. Make the Script Executable**
 
